@@ -1,19 +1,7 @@
 const { default: axios } = require("axios");
-const { default: mongoose } = require("mongoose");
 const path = require('path')
 
 const mainFile = path.join(__dirname, '../views/main.html');
-// const homeFile = path.join(__dirname, "../views/home.html")
-
-const countrySchema = new mongoose.Schema({
-    name: String,
-    state_province: String,
-    country: String,
-    website: [String],
-    domain: [String]
-},{
-    timestamps: true
-});
 
 const mainPage = async (req, res) => {
     res.sendFile(mainFile)

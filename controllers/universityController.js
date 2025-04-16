@@ -1,6 +1,6 @@
 const { default: axios } = require("axios");
 const University = require("../models/universityModel");  // university JSON Data from the web
-const { default: mongoose } = require("mongoose");
+
 
 // processing Data:
 const getAllUniversities = async (req, res) => {

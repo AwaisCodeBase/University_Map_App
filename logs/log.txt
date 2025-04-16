@@ -9,3 +9,20 @@
 [2024-12-20T09:35:17.755Z] INFO: Server started on PORT: 3000
 [2024-12-20T09:36:23.673Z] INFO: Server started on PORT: 3000
 [2024-12-20T09:36:43.253Z] INFO: Server started on PORT: 3000
+[2025-04-13T20:44:36.794Z] INFO: Server started on PORT: 3000
+[2025-04-13T20:45:01.644Z] GET /about 
+[2025-04-13T20:45:03.054Z] GET / 
+[2025-04-13T20:45:03.433Z] GET /favicon.ico 
+[2025-04-13T20:45:09.107Z] GET /india 
+[2025-04-13T20:45:10.271Z] GET /favicon.ico 
+[2025-04-13T20:45:13.069Z] GET /favicon.ico 
+[2025-04-13T20:45:33.328Z] GET /university/QUAID%20AZAM%20UNIVERSITY%20ISLAMABAD 
+[2025-04-13T20:45:43.390Z] GET /favicon.ico 
+[2025-04-13T20:45:45.402Z] GET /favicon.ico 
+[2025-04-13T20:46:02.299Z] GET /university/national%20university%20of%20science%20and%20technology 
+[2025-04-13T20:46:12.354Z] GET /favicon.ico 
+[2025-04-13T20:46:14.037Z] GET /favicon.ico 
+[2025-04-13T20:47:10.853Z] GET /university/Qau 
+[2025-04-13T20:47:12.433Z] GET /university/Qau 
+[2025-04-13T20:47:22.460Z] GET /favicon.ico 
+[2025-04-13T20:48:11.120Z] GET /favicon.ico 
